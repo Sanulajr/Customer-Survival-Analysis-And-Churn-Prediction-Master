@@ -141,12 +141,4 @@ Using the **Cox proportional hazards model**, we quantify the impact of multiple
 <img src="https://github.com/Sanulajr/Customer-Survival-Analysis-And-Churn-Prediction-Master/blob/main/Images/pdp_total_charges.png" width="400">
 </p>
 
----
-
-## Flask Web App
-
-* **Random Forest model** deployed via Flask
-* SHAP explainers visualized in the app
-* Survival and hazard curves from Cox model included
-* Provides **churn probability, severity gauge, and feature explanations**
 
