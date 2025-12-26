@@ -8,7 +8,7 @@ This project focuses on performing **customer survival analysis** and building a
 
 ## Final Customer Churn Prediction App
 
-<img src="https://github.com/Sanulajr/Customer-Survival-Analysis-And-Churn-Prediction-Master/Images/app-pic.png" alt="Final App" width="600">
+<img src="https://github.com/Sanulajr/Customer-Survival-Analysis-And-Churn-Prediction-Master/app-pic.png" alt="Final App" width="600">
 
 ---
 
