@@ -56,7 +56,7 @@ A set of statistical methods to examine time-to-event data — in this case, how
 **Kaplan-Meier Survival Curve:**
 
 <p align="center">
-<img src="https://github.com/Sanulajr/Customer-Survival-Analysis-And-Churn-Prediction-Master/blob/master/Images/SurvivalCurve.png" width="400" height="300">
+<img src="https://github.com/Sanulajr/Customer-Survival-Analysis-And-Churn-Prediction-Master/blob/main/Images/SurvivalCurve.png" width="400" height="300">
 </p>
 
 Observations:
@@ -68,9 +68,9 @@ Observations:
 Evaluates whether survival distributions differ significantly between customer groups.
 
 <p align="center">
-<img src="https://github.com/Sanulajr/Customer-Survival-Analysis-And-Churn-Prediction-Master/blob/master/Images/gender.png" width="250">
-<img src="https://github.com/Sanulajr/Customer-Survival-Analysis-And-Churn-Prediction-Master/blob/master/Images/Senior%20Citizen.png" width="250">
-<img src="https://github.com/Sanulajr/Customer-Survival-Analysis-And-Churn-Prediction-Master/blob/master/Images/partner_1.png" width="250">
+<img src="https://github.com/Sanulajr/Customer-Survival-Analysis-And-Churn-Prediction-Master/blob/main/Images/gender.png" width="250">
+<img src="https://github.com/Sanulajr/Customer-Survival-Analysis-And-Churn-Prediction-Master/blob/main/Images/Senior%20Citizen.png" width="250">
+<img src="https://github.com/Sanulajr/Customer-Survival-Analysis-And-Churn-Prediction-Master/blob/main/Images/partner_1.png" width="250">
 </p>
 
 Key insights:
@@ -87,15 +87,15 @@ Key insights:
 Using the **Cox proportional hazards model**, we quantify the impact of multiple risk factors on customer churn.
 
 <p align="center">
-<img src="https://github.com/Sanulajr/Customer-Survival-Analysis-And-Churn-Prediction-Master/blob/master/Images/Survival-analysis.png" width="750">
+<img src="https://github.com/Sanulajr/Customer-Survival-Analysis-And-Churn-Prediction-Master/blob/main/Images/Survival-analysis.png" width="750">
 </p>
 
 * Enables prediction of survival and hazard curves for individual customers
 * Supports calculation of **expected customer lifetime value**
 
 <p align="center">
-<img src="https://github.com/Sanulajr/Customer-Survival-Analysis-And-Churn-Prediction-Master/blob/master/Images/survival.png" width="400">
-<img src="https://github.com/Sanulajr/Customer-Survival-Analysis-And-Churn-Prediction-Master/blob/master/Images/hazard.png" width="400">
+<img src="https://github.com/Sanulajr/Customer-Survival-Analysis-And-Churn-Prediction-Master/blob/main/Images/survival.png" width="400">
+<img src="https://github.com/Sanulajr/Customer-Survival-Analysis-And-Churn-Prediction-Master/blob/main/Images/hazard.png" width="400">
 </p>
 
 ---
@@ -116,8 +116,8 @@ Using the **Cox proportional hazards model**, we quantify the impact of multiple
 * Model performance: **F1 score 0.62, ROC-AUC 0.85**
 
 <p align="center">
-<img src="https://github.com/Sanulajr/Customer-Survival-Analysis-And-Churn-Prediction-Master/blob/master/Images/model_1.png" width="600">
-<img src="https://github.com/Sanulajr/Customer-Survival-Analysis-And-Churn-Prediction-Master/blob/master/Images/model_feat_imp.png" width="600">
+<img src="https://github.com/Sanulajr/Customer-Survival-Analysis-And-Churn-Prediction-Master/blob/main/Images/model_1.png" width="600">
+<img src="https://github.com/Sanulajr/Customer-Survival-Analysis-And-Churn-Prediction-Master/blob/main/Images/model_feat_imp.png" width="600">
 </p>
 
 ---
@@ -127,18 +127,18 @@ Using the **Cox proportional hazards model**, we quantify the impact of multiple
 **SHAP, Permutation Importance, Partial Dependence Plots** allow interpretation of feature contributions to churn predictions.
 
 <p align="center">
-<img src="https://github.com/Sanulajr/Customer-Survival-Analysis-And-Churn-Prediction-Master/blob/master/Images/eli51.png" width="200">
-<img src="https://github.com/Sanulajr/Customer-Survival-Analysis-And-Churn-Prediction-Master/blob/master/Images/eli52.png" width="200">
+<img src="https://github.com/Sanulajr/Customer-Survival-Analysis-And-Churn-Prediction-Master/blob/main/Images/eli51.png" width="200">
+<img src="https://github.com/Sanulajr/Customer-Survival-Analysis-And-Churn-Prediction-Master/blob/main/Images/eli52.png" width="200">
 </p>
 
 <p align="center">
-<img src="https://github.com/Sanulajr/Customer-Survival-Analysis-And-Churn-Prediction-Master/blob/master/Images/pdp_tenure.png" width="400">
-<img src="https://github.com/Sanulajr/Customer-Survival-Analysis-And-Churn-Prediction-Master/blob/master/Images/pdp_contract.png" width="400">
+<img src="https://github.com/Sanulajr/Customer-Survival-Analysis-And-Churn-Prediction-Master/blob/main/Images/pdp_tenure.png" width="400">
+<img src="https://github.com/Sanulajr/Customer-Survival-Analysis-And-Churn-Prediction-Master/blob/main/Images/pdp_contract.png" width="400">
 </p>
 
 <p align="center">
-<img src="https://github.com/Sanulajr/Customer-Survival-Analysis-And-Churn-Prediction-Master/blob/master/Images/pdp_monthly_charges.png" width="400">
-<img src="https://github.com/Sanulajr/Customer-Survival-Analysis-And-Churn-Prediction-Master/blob/master/Images/pdp_total_charges.png" width="400">
+<img src="https://github.com/Sanulajr/Customer-Survival-Analysis-And-Churn-Prediction-Master/blob/main/Images/pdp_monthly_charges.png" width="400">
+<img src="https://github.com/Sanulajr/Customer-Survival-Analysis-And-Churn-Prediction-Master/blob/main/Images/pdp_total_charges.png" width="400">
 </p>
 
 ---
